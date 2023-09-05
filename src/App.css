@@ -11,7 +11,7 @@ nav {
   z-index: 2;
  display: flex; 
  height: 4rem;
- background-color: burlywood;
+ /* background-color: burlywood; */
  top: 0;
  width: 100%;
 }
@@ -33,7 +33,7 @@ nav {
 }
 
 .f1 {
-  background-image: url("/public/yatindo.jpg");
+  background-image: url("/yatindo.jpg");
   display: flex;
   flex-direction: column;
   height: 100vh;
